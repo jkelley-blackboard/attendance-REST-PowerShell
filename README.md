@@ -3,7 +3,7 @@
  
  Usage:
 
->> Course_Attendance.ps1  -CRSID <Learn Course_ID> -PROP <attendance.properties>
+-- Course_Attendance.ps1  -CRSID Learn_Course_ID -PROP attendance.properties
 
 Returns a csv file:
 <Learn Course_ID>.attendance.csv
