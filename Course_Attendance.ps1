@@ -154,6 +154,7 @@ $output = @()
 foreach ($rec in $allRecords)
 {
     $usr = $members | where {$_.id -eq $rec.userId}
+    # todo:  catch users without student_id - use this method for other attributes that might be null.
     $meet = $meetings | where {$_.id -eq $rec.meetingId}
     $outputRecord = @{
             "course_id" = $workingCourse
