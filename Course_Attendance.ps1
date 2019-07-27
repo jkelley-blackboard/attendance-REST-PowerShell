@@ -1,6 +1,7 @@
-# (C) Copyright Blackboard Inc. 2019 - All Rights Reserved
 # 
 # developed by jeff.kelley@blackboard.com
+# with attribution to mike.buchanon@rasmussen.edu
+# from https://community.blackboard.com/docs/DOC-4949-devcon-playing-nice-with-powershell-and-the-learn-rest-api
 # 
 # BLACKBOARD MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SUITABILITY
 # OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
