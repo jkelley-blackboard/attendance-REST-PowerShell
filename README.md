@@ -11,3 +11,4 @@ Learn_Course_ID.attendance.csv
 Requires role with system priviliges:
 - Administrator Panel (Users) > Users > Edit > View Course Enrollments
 - Course/Organization Control Panel (Tools) > Attendance > View Attendance
+- Administrator Panel (Users) > Users 
